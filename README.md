@@ -1,4 +1,4 @@
-![Your GIF](https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif)
+<center>![Your GIF](https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif)/center>
 
 👨‍💻 B.Tech CSE Graduate | 🌐 [LinkedIn](https://www.linkedin.com/in/natha-m-iqbal-06741a210/) | 📧 nathamiqbal@gmail.com
 
