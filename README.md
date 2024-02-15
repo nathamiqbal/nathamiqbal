@@ -1,10 +1,21 @@
 
 
+
+
+
+
+## 👋 Hello there!
+
+I'm NATHA M IQBAL, a Python Data Science enthusiast on a mission to uncover insights from data and turn them into actionable solutions. 🚀
 👨‍💻 B.Tech CSE Graduate | 🌐 [LinkedIn](https://www.linkedin.com/in/natha-m-iqbal-06741a210/) | 📧 nathamiqbal@gmail.com
 
-## About Me 💼
+# About Me
+🐍 Pythonista: Proficient in Python programming, I love leveraging its versatility for data analysis, machine learning, and automation.
 
-I am Natha M Iqbal, a B.Tech CSE graduate with a strong foundation in leadership, presentation, confidence, and adaptability.
+- 📊 Data Explorer: I enjoy exploring datasets to unveil meaningful patterns and trends. Whether it's cleaning messy data or building predictive models, I find joy in the entire data science pipeline.
+
+- 🤖 Machine Learning Enthusiast: I'm passionate about the potential of machine learning algorithms to solve real-world problems. From classification to regression, I love experimenting with different models to find the best fit.
+
 
 ## Skills 🛠️
 
@@ -30,7 +41,7 @@ I am Natha M Iqbal, a B.Tech CSE graduate with a strong foundation in leadership
 1. **Portfolio**
    - Description:Designed and developed a basic portfolio using HTML/CSS with CSS animations and transitions.
    - Technologies: HTML, CSS
-
+[link](https://nathamiqbal.github.io/my_portfolio/)
 
 
 ## Contact 📬
